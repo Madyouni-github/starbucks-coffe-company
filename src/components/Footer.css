@@ -1,0 +1,29 @@
+.footer-container {
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 0 30px 30px;
+    text-align: center;
+  }
+  
+  .social {
+    align-items: center;
+    margin: 20px 0;
+  }
+  
+  .social img {
+    width: 35px;
+    height: 35px;
+  }
+  
+  .social a {
+    text-decoration: none;
+    margin-right: 20px;
+  }
+  
+  .divider {
+    width: 95%;
+    height: 1px;
+    background-color: #ccc;
+    margin: 40px auto;
+  }
